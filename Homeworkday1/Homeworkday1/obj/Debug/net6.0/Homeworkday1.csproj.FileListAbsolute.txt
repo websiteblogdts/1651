@@ -1,0 +1,15 @@
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\bin\Debug\net6.0\Homeworkday1.exe
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\bin\Debug\net6.0\Homeworkday1.deps.json
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\bin\Debug\net6.0\Homeworkday1.runtimeconfig.json
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\bin\Debug\net6.0\Homeworkday1.dll
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\bin\Debug\net6.0\Homeworkday1.pdb
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.csproj.AssemblyReference.cache
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.AssemblyInfoInputs.cache
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.AssemblyInfo.cs
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.csproj.CoreCompileInputs.cache
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.dll
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\refint\Homeworkday1.dll
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.pdb
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\Homeworkday1.genruntimeconfig.cache
+C:\Users\techcare\Documents\1651\Homeworkday1\Homeworkday1\obj\Debug\net6.0\ref\Homeworkday1.dll
