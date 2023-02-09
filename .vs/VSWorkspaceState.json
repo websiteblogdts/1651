@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bai1-day1",
-    "\\bai1-day1\\bai1-day1"
+    "\\bai1-day1\\bai1-day1",
+    "\\bai1-day1\\bai1-day1\\obj",
+    "\\homework_2\\homework_2"
   ],
-  "SelectedNode": "\\bai1-day1\\bai1-day1\\Program.cs",
+  "SelectedNode": "\\bai1-day1",
   "PreviewInSolutionExplorer": false
 }

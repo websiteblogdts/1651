@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\techcare\\Documents\\1651\\homework_2\\homework_2\\homework_2.csproj",
+      "projectUniqueName": "C:\\Users\\techcare\\Documents\\1651\\1651\\homework_2\\homework_2\\homework_2.csproj",
       "projectName": "homework_2",
-      "projectPath": "C:\\Users\\techcare\\Documents\\1651\\homework_2\\homework_2\\homework_2.csproj",
+      "projectPath": "C:\\Users\\techcare\\Documents\\1651\\1651\\homework_2\\homework_2\\homework_2.csproj",
       "packagesPath": "C:\\Users\\techcare\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\techcare\\Documents\\1651\\homework_2\\homework_2\\obj\\",
+      "outputPath": "C:\\Users\\techcare\\Documents\\1651\\1651\\homework_2\\homework_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
